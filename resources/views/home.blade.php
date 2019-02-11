@@ -1,23 +1,16 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
+
             <div class="card">
                 <div class="card-header">Dashboard</div>
 
                 <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    You are logged in!
+                    This is a very simple Demo App showing the daily horoscope. The app uses Laravel as a backend and some VueJS components. However, since the backend does not care about saving any data, there is no real model. The app uses aztro.readthedocs.io as an API. The app is hosted in heroku free plan and the github is
+                    <a href="https://github.com/remindbg/HoroscopesVue">here</a>. 
+                    <p>Pick a Zodiac from the sidebar menu
+                    </p>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
+
 @endsection
