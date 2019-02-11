@@ -36778,72 +36778,72 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("ul", { staticClass: "list-group" }, [
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Aries" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/aries" } }, [
             _vm._v("Aries")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Aries" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/taurus" } }, [
             _vm._v("Taurus")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Genubu" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/gemini" } }, [
             _vm._v("Gemini")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Cancer" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/cancer" } }, [
             _vm._v("Cancer")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Leo" } }, [_vm._v("Leo")])
+          _c("a", { attrs: { href: "/zodiacs/today/leo" } }, [_vm._v("Leo")])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Virgo" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/virgo" } }, [
             _vm._v("Virgo")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Libra" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/libra" } }, [
             _vm._v("Libra")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Scorpio" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/scorpio" } }, [
             _vm._v("Scorpio")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Sagittarius" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/sagittarius" } }, [
             _vm._v("Sagittarius")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Capricorn" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/capricorn" } }, [
             _vm._v("Capricorn")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Aquarius" } }, [
+          _c("a", { attrs: { href: "/zodiacs/today/aquarius" } }, [
             _vm._v("Aquarius")
           ])
         ]),
         _vm._v(" "),
         _c("li", { staticClass: "list-group-item" }, [
-          _c("a", { attrs: { href: "/zodiacs/today/Pesces" } }, [
-            _vm._v("Pesces")
+          _c("a", { attrs: { href: "/zodiacs/today/pisces" } }, [
+            _vm._v("Pisces")
           ])
         ])
       ])
