@@ -1,29 +1,17 @@
 # horoscopes-vue
+This is a very simple Demo App showing the daily horoscope. The app uses Laravel as a backend and some VueJS components. However, since the backend does not care about saving any data, there is no real model. The app uses aztro.readthedocs.io as an API.
 
 ## Project setup
 ```
-npm install
+git clone https://github.com/remindbg/HoroscopesVue.git 
+cd HoroscopesVue
+composer install
+php artisan key:generate
+
+run: 
+php artisan serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See Demo here [Configuration Reference](https://cli.vuejs.org/config/).
