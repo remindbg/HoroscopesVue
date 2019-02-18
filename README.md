@@ -14,4 +14,4 @@ php artisan serve
 
 
 
-See Demo here [Configuration Reference](https://cli.vuejs.org/config/).
+See Demo here [DEMO](http://blooming-tor-87451.herokuapp.com).
