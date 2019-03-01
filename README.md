@@ -1,5 +1,6 @@
 # horoscopes-vue
-This is a very simple Demo App showing the daily horoscope. The app uses Laravel as a backend and some VueJS components. However, since the backend does not care about saving any data, there is no real model. The app uses aztro.readthedocs.io as an API.
+Very simple Laravel + Vue + external API, just playing with external APIs
+
 
 ## Project setup
 ```
